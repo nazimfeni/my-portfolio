@@ -10,7 +10,10 @@ const images = [
     src: `${process.env.PUBLIC_URL}/images/Bogra_momoinn.jpg`,
     alt: "Bogra Momo Inn",
   },
-  { src: "https://via.placeholder.com/300", alt: "Image 3" },
+  {
+    src: `${process.env.PUBLIC_URL}/images/JU_Campus.jpg`,
+    alt: "JU Campus",
+  },
   { src: "https://via.placeholder.com/300", alt: "Image 4" },
   { src: "https://via.placeholder.com/300", alt: "Image 5" },
   { src: "https://via.placeholder.com/300", alt: "Image 6" },
