@@ -2,7 +2,10 @@
 import React from "react";
 
 const images = [
-  { src: "https://via.placeholder.com/300", alt: "Image 1" },
+  {
+    src: "../../public/images/Graduationnight.jpg",
+    alt: "IBA JU Gratuation Night",
+  },
   { src: "https://via.placeholder.com/300", alt: "Image 2" },
   { src: "https://via.placeholder.com/300", alt: "Image 3" },
   { src: "https://via.placeholder.com/300", alt: "Image 4" },
