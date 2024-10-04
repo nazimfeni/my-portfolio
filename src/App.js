@@ -4,6 +4,7 @@ import Layout from './components/Layout';
 import About from './components/About';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import Gallery from './components/Gallery';
 
 function App() {
   return (
@@ -11,6 +12,7 @@ function App() {
       <About />
       <Projects />
       <Contact />
+      <Gallery />
     </Layout>
   );
 }
