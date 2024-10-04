@@ -3,7 +3,7 @@ import React from "react";
 
 const images = [
   {
-    src: "../../public/images/Graduationnight.jpg",
+    src: `${process.env.PUBLIC_URL}/images/Graduationnight.jpg`,
     alt: "IBA JU Graduation Night",
   },
   { src: "https://via.placeholder.com/300", alt: "Image 2" },
