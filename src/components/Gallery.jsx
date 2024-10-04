@@ -14,7 +14,10 @@ const images = [
     src: `${process.env.PUBLIC_URL}/images/JU_Campus.jpg`,
     alt: "JU Campus",
   },
-  { src: "https://via.placeholder.com/300", alt: "Image 4" },
+  {
+    src: `${process.env.PUBLIC_URL}/images/Training_session.jpg`,
+    alt: "Ina Training Session",
+  },
   { src: "https://via.placeholder.com/300", alt: "Image 5" },
   { src: "https://via.placeholder.com/300", alt: "Image 6" },
 ];
