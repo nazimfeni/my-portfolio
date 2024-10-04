@@ -4,7 +4,7 @@ import React from "react";
 const images = [
   {
     src: "../../public/images/Graduationnight.jpg",
-    alt: "IBA JU Gratuation Night",
+    alt: "IBA JU Graduation Night",
   },
   { src: "https://via.placeholder.com/300", alt: "Image 2" },
   { src: "https://via.placeholder.com/300", alt: "Image 3" },
