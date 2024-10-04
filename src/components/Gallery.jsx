@@ -6,7 +6,10 @@ const images = [
     src: `${process.env.PUBLIC_URL}/images/Graduationnight.jpg`,
     alt: "IBA JU Graduation Night",
   },
-  { src: "https://via.placeholder.com/300", alt: "Image 2" },
+  {
+    src: `${process.env.PUBLIC_URL}/images/Bogra_momoinn.jpg`,
+    alt: "Bogra Momo Inn",
+  },
   { src: "https://via.placeholder.com/300", alt: "Image 3" },
   { src: "https://via.placeholder.com/300", alt: "Image 4" },
   { src: "https://via.placeholder.com/300", alt: "Image 5" },
