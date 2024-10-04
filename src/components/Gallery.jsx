@@ -18,8 +18,14 @@ const images = [
     src: `${process.env.PUBLIC_URL}/images/Training_session.jpg`,
     alt: "Ina Training Session",
   },
-  { src: "https://via.placeholder.com/300", alt: "Image 5" },
-  { src: "https://via.placeholder.com/300", alt: "Image 6" },
+  {
+    src: `${process.env.PUBLIC_URL}/images/Sara.jpg`,
+    alt: "My Daughter Sara",
+  },
+  {
+    src: `${process.env.PUBLIC_URL}/images/Gaming_time.jpg`,
+    alt: "GAming Time",
+  },
 ];
 
 const Gallery = () => {
