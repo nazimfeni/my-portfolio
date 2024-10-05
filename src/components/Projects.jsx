@@ -10,6 +10,7 @@ const projects = [
   { title: 'Project 2', description: 'A brief description of Project 2', link: 'https://github.com/project2' },
   { title: 'Project 3', description: 'A brief description of Project 3', link: 'https://github.com/project2' },
   { title: 'Project 4', description: 'A brief description of Project 4', link: 'https://github.com/project2' },
+  { title: 'Project 5', description: 'A brief description of Project 4', link: 'https://github.com/project2' },
 ];
 
 const Projects = () => {
